@@ -1,0 +1,37 @@
+.cursor  {
+    background-color: lightblue;
+
+}
+
+.correct {
+    color: white;
+}
+
+.wrong {
+    color: red;
+}
+
+body {
+    background-color: rgb(61, 51, 66);
+    font-family: Georgia;
+    font-size: 10px;
+}
+
+div {
+    font-size: 40px;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center; 
+}
+
+button{
+    text-align: center;
+}
+
